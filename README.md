@@ -1,8 +1,8 @@
-- 👋 Hi, I’m 2Meng-Star
+- 👋 Hi, I’m 2Meng
 - 👀 I’m interested in live and badminton
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on protomics
-- 📫 How to reach me 1141230464@=qq.com
+- 📫 How to reach me 1141230464@qq.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
